@@ -1,7 +1,8 @@
-# Mt. Silver
 A casual social multiplayer game format for the Pokémon TCG.
 
 >[!note]- Version History
+>## 4.1.1
+>- Corrected some typos in the play section
 >## 4.1.0
 >- Changed Level Piles to Area Piles and removed sequencing
 >- Area Piles contain 8 cards
@@ -82,9 +83,9 @@ The game plays with the current version of the standard Pokémon TCG rules with 
 - All players share the same discard pile.
 - When cards mention your opponent's cards they refer to all opponents.
 - A player can use their Pokémon Trainer's ability as their supporter card for the turn.
-- Any mention of prize cards applies to the level piles.
-- When a card references 'taken' prize cards applies to taken Badge Tokens.
-- When a player Knocks Out a Pokémon, instead of taking prize cards that player takes one of their Badge Tokens by flipping it face up.
+- Any mention of prize cards applies to the Area Piles.
+- When a card references 'taken' prize cards it applies to taken Badge Tokens.
+- When a player Knocks Out a Pokémon, instead of taking prize cards that player takes Badge Tokens by flipping them face up.
 - When a player takes a Badge Token, that player may choose to explore one of the remaining Area Piles of Mt. Silver in a draft! 
 	- The player who earned the Badge Token takes an Area Pile, looks at the cards, and selects one of the cards from the pile and places it in their hand.
 	- The remaining cards are passed clockwise, with each player taking a card until no cards remain.
