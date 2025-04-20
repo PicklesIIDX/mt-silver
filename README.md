@@ -34,6 +34,7 @@ A casual social multiplayer game format for the Pokémon TCG.
 >- Defined the basic energy badges as 'badge tokens.'
 >## 1.0.0
 >- Initial Rules
+
 # Objective
 Become the champion by taking all of your Badge Tokens.
 # Preparation
