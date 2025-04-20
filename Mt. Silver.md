@@ -1,3 +1,7 @@
+layout: page
+title: "Rules"
+permalink: /rules
+
 A casual social multiplayer game format for the Pokémon TCG.
 
 >[!note]- Version History
